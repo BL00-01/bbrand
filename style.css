@@ -1,0 +1,23 @@
+.txt_default {
+
+    color: rgb(243, 235, 255);
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.border {
+
+    margin: auto;
+    width: 1200px;
+    height: 1500px;
+
+}
+
+.title {
+
+    font-family: 'Josefin Sans', sans-serif;
+    color:  rgb(243, 235, 255);
+    font-size: 60px;
+
+}
